@@ -1,0 +1,23 @@
+{
+  "name": "my-blog",
+  "version": "1.0.0",
+  "author": "reco_luan",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "devDependencies": {
+    "busuanzi.pure.js": "^1.0.2",
+    "vue-particles": "^1.0.9",
+    "vuepress": "1.2.0",
+    "vuepress-plugin-nest": "^1.0.1",
+    "vuepress-plugin-ribbon": "0.0.6",
+    "vuepress-theme-reco": "1.1.0"
+  },
+  "description": "myblog",
+  "dependencies": {
+    "@vuepress-reco/vuepress-plugin-comments": "^1.0.7",
+    "@vuepress-reco/vuepress-plugin-kan-ban-niang": "^1.0.3",
+    "vue-aplayer": "^1.6.1"
+  }
+}
